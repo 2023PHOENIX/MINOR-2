@@ -64,30 +64,9 @@ Where the scoring procedure is built around an intermediate representation, whic
 
 
 
-### 1.4.	References
-
-
-[1].	 Li, L., Yang, S., Su, L., Wang, S., Yan, C., Zha, Z. J., & Huang, Q. (2020, October). Diverter-guider recurrent network for diverse poems generation from image. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 3875-3883).
-[2].	Corpus-Based Generation of Content and Form in Poetry Jukka M. Toivanen, Hannu Toivonen, Alessandro Valitutti and Oskar Gross
-[3].	Farhadi, A., Hejrati, M., Sadeghi, M. A., Young, P., Rashtchian, C., Hockenmaier, J., & Forsyth, D. (2010, September). Every picture tells a story: Generating sentences from images. In European conference on computer vision (pp. 15-29). Springer, Berlin, Heidelberg.
-[4].	An Introduction to Convolutional Neural Networks Keiron O’Shea and Ryan Nash 
-[5].	A Critical Review of Recurrent Neural Networks for Sequence Learning Zachary C. Lipton, John Berkowitz, Charles Elkan.
-[6].	Felix A. Gers, J¨urgen Schmidhuber, and Fred Cummins. Learning to forget: Continual prediction with LSTM. Neural computation, 12(10):2451–2471, 2000
-[7].	Liu, B., Fu, J., Kato, M. P., & Yoshikawa, M. (2018, October). Beyond narrative description: Generating poetry from images by multi-adversarial training. In Proceedings of the 26th ACM international conference on Multimedia (pp. 783-791).
-[8].	Cheng, W. F., Wu, C. C., Song, R., Fu, J., Xie, X., & Nie, J. Y. (2018). Image inspired poetry generation in xiaoice. arXiv preprint arXiv:1808.03090.
-[9].	Asghar, N., Poupart, P., Hoey, J., Jiang, X., & Mou, L. (2018, March). Affective neural response generation. In European Conference on Information Retrieval (pp. 154-166). Springer, Cham.
-[10].	Donahue, J., Anne Hendricks, L., Guadarrama, S., Rohrbach, M., Venugopalan, S., Saenko, K., & Darrell, T. (2015). Long-term recurrent convolutional networks for visual recognition and description. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2625-2634).
-[11].	R.Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz & Samy Bengio Generating Sentences from a Continuous Space Samuel
-[12].	Poetry Analysis and Generation Marmik K Pandya
-[13].	A Review of Recurrent Neural Networks: LSTM Cells and Network Architectures Yong Yu Xiaosheng Si, Changhua Hu, Jianxun Zhang
-[14].	Very Deep Convolutional Networks for large-scale image recognition Karen Simonyan & Andrew Zisserman 
-
-
-
-
-
 
 ## 2.	Project Description
+
 
 ### 2.1.	Reference Algorithm
 
